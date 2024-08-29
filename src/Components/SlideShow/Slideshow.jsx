@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+/*import { useState, useEffect } from "react";
 import StarryNight from "/starry-night/hero-small.jpg";
 import Pearl from "/girl-with-pearl-earring/hero-large.jpg";
 import Guernica from "/guernica/hero-small.jpg";
@@ -53,5 +53,5 @@ const Slideshow = () => {
     
   };
   
-  export default Slideshow;
+  export default Slideshow;*/
   
